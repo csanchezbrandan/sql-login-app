@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Base de Datos Cordoba",
+    "ip": "192.168.xx.xx",
+    "usuario": "SqlUserPre",
+    "password": "******"
+  },
+  {
+    "nombre": "Base de Datos Buenos Aires",
+    "ip": "192.168.xx.xx",
+    "usuario": "SqlUserProd",
+    "password": "*****"
+  }
+]
